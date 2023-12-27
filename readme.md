@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alamsyah Bimasakti</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [Blanja Web Aplication](https://github.com/Massbim/blanja-frontend)
-
 - 🌱 I’m currently learning **React js,Next js, Laravel**
 
 - 💬 Ask me about **PHP Native, Bootstrap, Tailwind**
